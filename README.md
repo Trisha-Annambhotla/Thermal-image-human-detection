@@ -1,0 +1,1 @@
+Traditional human detection methods struggle in low-visibility conditions like darkness or smoke. This project aims to overcome that limitation by using thermal imaging to detect human presence accurately and reliably using YOLO and Roboflow models.
